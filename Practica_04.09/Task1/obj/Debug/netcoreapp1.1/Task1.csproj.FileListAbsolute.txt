@@ -1,0 +1,9 @@
+D:\C#\Practica_04.09\Task1\bin\Debug\netcoreapp1.1\Task1.deps.json
+D:\C#\Practica_04.09\Task1\bin\Debug\netcoreapp1.1\Task1.runtimeconfig.json
+D:\C#\Practica_04.09\Task1\bin\Debug\netcoreapp1.1\Task1.runtimeconfig.dev.json
+D:\C#\Practica_04.09\Task1\bin\Debug\netcoreapp1.1\Task1.dll
+D:\C#\Practica_04.09\Task1\bin\Debug\netcoreapp1.1\Task1.pdb
+D:\C#\Practica_04.09\Task1\obj\Debug\netcoreapp1.1\Task1.csprojResolveAssemblyReference.cache
+D:\C#\Practica_04.09\Task1\obj\Debug\netcoreapp1.1\Task1.AssemblyInfo.cs
+D:\C#\Practica_04.09\Task1\obj\Debug\netcoreapp1.1\Task1.dll
+D:\C#\Practica_04.09\Task1\obj\Debug\netcoreapp1.1\Task1.pdb

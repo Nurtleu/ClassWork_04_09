@@ -1,0 +1,6 @@
+D:\C#\Practica_04.09\task2(1)\obj\Debug\Task2.csprojResolveAssemblyReference.cache
+D:\C#\Practica_04.09\task2(1)\bin\Debug\task2(1).exe.config
+D:\C#\Practica_04.09\task2(1)\bin\Debug\task2(1).exe
+D:\C#\Practica_04.09\task2(1)\bin\Debug\task2(1).pdb
+D:\C#\Practica_04.09\task2(1)\obj\Debug\task2(1).exe
+D:\C#\Practica_04.09\task2(1)\obj\Debug\task2(1).pdb
